@@ -1,6 +1,6 @@
 baseurl: ''
 languageCode: en-us
-title: Minimalist
+title: Arquivo
 googleAnalytics: ""
 disqusShortname: ""
 preserveTaxonomyNames: true
@@ -17,7 +17,7 @@ disableKinds:
   - tags
 
 permalinks:
-  writing: /:year/:month/:day/:slug/
+  writing: /:day/:month/:year/:slug/
 
 params:
   description: "Minimalist theme for Hugo"
