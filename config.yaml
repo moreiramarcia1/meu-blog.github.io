@@ -27,8 +27,8 @@ frontmatter:
   github: 'https://github.com/example'
   facebook: 'https://facebook.com/example'
   og_image: 
-  sitename: Arquivo
-  twitter: '@twitter'
+  sitename: Archive
+  mastodon: '@mastodon'
 
 sitemap:
   changefreq: monthly
