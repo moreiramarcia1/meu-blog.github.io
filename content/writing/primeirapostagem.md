@@ -8,7 +8,7 @@ tags:
 - Idiomas
 ---
 
-[Gostaria de recomeçar este blog falando sobre sobre meu projeto de aprendizado em línguas estrangeiras, incluindo aquelas consideradas minoritárias. O motivo? Foi uma forma de retormar meus interesses de sempre e também reflete meu nomento atua. 
+Gostaria de recomeçar este blog falando sobre sobre meu projeto de aprendizado em línguas estrangeiras, incluindo aquelas consideradas minoritárias. O motivo? Foi uma forma de retormar meus interesses de sempre e também reflete meu nomento atua. 
 
 A proposta é, basicamente, compartilhar essa jornada — sem promoter milagre de fluência em poucos meses. Não é sobre isso.
 
