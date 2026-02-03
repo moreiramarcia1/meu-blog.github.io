@@ -1,7 +1,7 @@
 ---
 title: "Por onde recomeça?"
 description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
-date: "03 Fev, 2026"
+date: "2026/02/03"
 tags:
 - Projeto
 - Versão Legendada
