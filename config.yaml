@@ -23,7 +23,7 @@ params:
   description: "Minimalist theme for Hugo"
 
 frontmatter:
-  author: Example
+  author: Marcia
   github: 'https://github.com/example'
   facebook: 'https://facebook.com/example'
   og_image: 
